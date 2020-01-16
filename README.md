@@ -7,4 +7,4 @@ Curso de GitHub en Platzi
 *El flujo de trabajo de github
 *Buenas parcticas
 *Personalidades multiples
-
+*Disponible para todas las personas 
